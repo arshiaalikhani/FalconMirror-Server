@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33235497/README.1.md)
 <div align="center">
 
 # FalconMirror — Windows Server
