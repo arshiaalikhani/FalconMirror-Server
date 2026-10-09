@@ -1,0 +1,70 @@
+# FalconMirror Windows Server — C++ / Code::Blocks
+# Keep source files, README.md, stb_image_write.h, and server/server.cbp tracked.
+
+# Code::Blocks generated state (do not ignore *.cbp project files)
+*.layout
+*.depend
+*.cbTemp
+*.cbp.local
+
+# Build output directories
+server/bin/
+server/obj/
+build/
+out/
+dist/
+cmake-build-*/
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled binaries and intermediate files
+*.exe
+*.o
+*.obj
+*.lo
+*.pch
+*.gch
+*.a
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.idb
+*.ipch
+*.map
+*.d
+
+# CMake-generated files (if CMake is used later)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+
+# Visual Studio / editor local state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/ipch/
+.vscode/*.log
+*.VC.db
+*.VC.opendb
+
+# Logs and temporary/backup files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
